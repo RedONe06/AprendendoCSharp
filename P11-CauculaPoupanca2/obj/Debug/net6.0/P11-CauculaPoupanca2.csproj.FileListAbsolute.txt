@@ -1,0 +1,15 @@
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\bin\Debug\net6.0\P11-CauculaPoupanca2.exe
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\bin\Debug\net6.0\P11-CauculaPoupanca2.deps.json
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\bin\Debug\net6.0\P11-CauculaPoupanca2.runtimeconfig.json
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\bin\Debug\net6.0\P11-CauculaPoupanca2.dll
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\bin\Debug\net6.0\P11-CauculaPoupanca2.pdb
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.csproj.AssemblyReference.cache
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.AssemblyInfoInputs.cache
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.AssemblyInfo.cs
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.csproj.CoreCompileInputs.cache
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.dll
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\refint\P11-CauculaPoupanca2.dll
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.pdb
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\P11-CauculaPoupanca2.genruntimeconfig.cache
+C:\Users\Andriele\source\repos\1-OlaMundo\P11-CauculaPoupanca2\obj\Debug\net6.0\ref\P11-CauculaPoupanca2.dll

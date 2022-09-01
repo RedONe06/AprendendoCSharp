@@ -25,6 +25,7 @@ class Programa
         }
         else
             Console.WriteLine("Não pode entrar!");
+  
 
         Console.WriteLine("Tecle enter para fechar ...");
         Console.ReadLine();
